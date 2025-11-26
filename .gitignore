@@ -1,1 +1,3 @@
-wandb/
+finetuning_on_bert/wandb/
+exportto_s3.ipynb
+import_from_s3.ipynb
