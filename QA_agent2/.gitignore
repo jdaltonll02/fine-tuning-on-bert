@@ -2,3 +2,6 @@ sample_submission.csv.zip
 test.json.zip
 train.json.zip
 train.json.zipwhats-cooking.zip
+data/
+models/
+rag_system/rag_pipeline.cpython-312.pyc

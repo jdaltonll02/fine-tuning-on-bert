@@ -1,9 +1,9 @@
 GlobalTrekker	United States	Pittsburgh
-GlobalTrekker	United Kingdom	Stonehenge
-GlobalTrekker	Sri Lanka	Nuwara Eliya
-CulinaryDetective	Japan	East Asia
-CulinaryDetective	Brazil	South America
-CulinaryDetective	Ethiopia	Horn of Africa
+GlobalTrekker	United Kingdom	
+GlobalTrekker	Sri Lanka	
+CulinaryDetective	Japan	All
+CulinaryDetective	Brazil	South
+CulinaryDetective	Ethiopia	
 LinguaLocale	Taiwan	none
 LinguaLocale	Haiti	none
-LinguaLocale	Serbia	none
+LinguaLocale	Montenegro	none
